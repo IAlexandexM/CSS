@@ -19,6 +19,7 @@ h1 {
 
 .new::after {
         content: " New";
+        font-style: italic;
         color: #00a115;
         font-size: 12px;
 }
